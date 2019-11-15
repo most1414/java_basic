@@ -2,8 +2,8 @@ package variables;
 
 public class String {
     public static void main(String[] args) {
-        String text = "dowolny napis 2.55";
+        java.lang.String text = "dowolny napis 1.2345";
         System.out.println("text = " + text);
-        System.out.println("Pierwszy znak napisu: " + text.charAt);
+        System.out.println("Pierwszy znak napisu: " + text.);
     }
 }
