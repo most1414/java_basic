@@ -1,5 +1,6 @@
 package Conditional_Instructions;
 
+import java.time.LocalDate;
 import java.util.Scanner;
 
 public class SimpleInstructions {
@@ -29,6 +30,11 @@ public class SimpleInstructions {
         //Sprawdz czy liczba podana przez uzytkownika jest parzysta
         // Jesli tak to wypisz "PARZYSTA", jesli nie - wypisz "NIEPARZYSTA"
         // Jesli zero wypisz "zero"
-        }
+    // generowaniedaty aktualnej
+    //    System.out.println(LocalDate.now());
+        // if(warunek?){
+        // } else if (warunek 2){}
+    }
+
     }
 
