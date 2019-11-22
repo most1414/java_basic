@@ -1,4 +1,4 @@
-package exercises;
+package exercises.mathLibrary;
 
 public class MathLibrary {
     // 1. zaimplementuj metode zwracajaca srednia wartosci typu double podanych w argumencie metody jako tablica
